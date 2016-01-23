@@ -1,0 +1,7 @@
+{
+  "name": "predictor",
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
